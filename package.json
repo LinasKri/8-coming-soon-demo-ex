@@ -1,0 +1,15 @@
+{
+  "name": "8-coming-soon-demo-ex",
+  "version": "1.0.0",
+  "description": "informacijos įtvirtinimui",
+  "main": "index.js",
+  "scripts": {
+    "dev": "--port=5500",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linas Kriščiukaitis",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
