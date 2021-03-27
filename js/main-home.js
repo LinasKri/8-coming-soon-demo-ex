@@ -1,3 +1,11 @@
+import { average } from './components/average.js';
+import { marks } from './data/marks.js';
+
+
+console.log(average(marks));
+
+
+
 // IMPORT
 
 // hero
