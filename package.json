@@ -4,7 +4,7 @@
   "description": "informacijos įtvirtinimui",
   "main": "index.js",
   "scripts": {
-    "dev": "--port=5500",
+    "dev": "live-server --port=5500",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Linas Kriščiukaitis",
