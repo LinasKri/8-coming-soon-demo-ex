@@ -1,0 +1,24 @@
+/* init */
+@import "./init/layout.css";
+@import "./init/variables.css";
+@import "./init/reset.css";
+
+/* 3rd party */
+@import "./3rd-party/fontawesome.css";
+
+/* components */
+@import "./components/clock.css";
+@import "./components/form.css";
+@import "./components/mouse.css";
+@import "./components/progress-bar.css";
+
+/* CUSTOM STYLE BY SECTIONS: */
+
+/* hero start */
+/* hero end */
+
+/* main content start */
+/* main content end*/
+
+/* footer start */
+/* footer end */
